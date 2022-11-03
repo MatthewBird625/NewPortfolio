@@ -19,7 +19,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    " I am currently a final year IT student who has completed all my classes and am ready to Graduate, with distinction on the 14th of December. Outside of coding I like to attend Gym and cook!",
+    " I am currently a final year IT student who has completed all my classes and am ready to Graduate with distinction on the 14th of December. Outside of coding I like to attend gym and cook!",
   address: "Melbourne - Australia",
   website: "https://www.linkedin.com/in/matthew-bird-96363313a/",
   education: [
@@ -38,7 +38,7 @@ let resumeData = {
       MonthOfLeaving: "July",
       YearOfLeaving: "2022 - current",
       Achievements:
-        "A continuing position in with my client from my industry project beyond the scope of Uni.In this project I managed a team of four students as the project manager. I oversaw the development of a React project as well as performed my own React coding tasks. I adminstrated all JIRA tasks and stories and handled all client negotations. Furthermore I also performed the management of the teams GitHub and performed the role of the Technical Lead.",
+        "An ongoing position with my client from my industry project.In this project I managed a team of four students as the project manager. I oversaw the development of a React project as well as performed my own React coding tasks. I adminstrated all JIRA tasks and stories and handled all client negotations. Furthermore I also performed the management of the teams GitHub and performed the role of the Technical Lead.",
     },
     {
       CompanyName: "Power-Tec",
