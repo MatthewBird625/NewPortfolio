@@ -19,7 +19,7 @@ let resumeData = {
     },
   ],
   aboutme:
-    " I am currently a final year IT student who has completed all my classes and is ready to Graduate, with distinction on the 14th of December. Outside of coding I like to attend Gym and cook!",
+    " I am currently a final year IT student who has completed all my classes and am ready to Graduate, with distinction on the 14th of December. Outside of coding I like to attend Gym and cook!",
   address: "Melbourne - Australia",
   website: "https://www.linkedin.com/in/matthew-bird-96363313a/",
   education: [
