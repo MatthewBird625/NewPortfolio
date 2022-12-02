@@ -1,3 +1,3 @@
 
-A simple SPA Portfoliobuilt with React. 
+A simple SPA Portfolio built with React. 
 
