@@ -164,10 +164,10 @@ export default class Porfolio extends Component {
               <p className="folio-description">
                 My first website made in React. Connects using express/API to a
                 cloud MySQL database.The website allows users to create
-                accounts, login, create posts and comment orreact to each others
+                accounts, login, create posts and comment or react to each others
                 posts
               </p>
-              <form action="https://google.com">
+              <form action="https://github.com/MatthewBird625/myFirstReactWebsite">
                 <input type="submit" className="github-button" value="GitHub" />
               </form>
             </div>
@@ -228,7 +228,7 @@ export default class Porfolio extends Component {
                   Etch-A-sketch
                 </a>
               </p>
-              <form action="https://google.com">
+              <form action="https://github.com/MatthewBird625/Etch-a-Sketch">
                 <input type="submit" className="github-button" value="GitHub" />
               </form>
             </div>

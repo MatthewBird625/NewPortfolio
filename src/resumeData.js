@@ -34,17 +34,17 @@ let resumeData = {
   work: [
     {
       CompanyName: "Carnival Guide",
-      specialization: "Front End Developer- continuing internship",
+      specialization: "Junior Software Developer/ Team Leader",
       MonthOfLeaving: "July",
       YearOfLeaving: "2022 - current",
       Achievements:
-        "An ongoing position with my client from my industry project.In this project I managed a team of four students as the project manager. I oversaw the development of a React project as well as performed my own React coding tasks. I adminstrated all JIRA tasks and stories and handled all client negotations. Furthermore I also performed the management of the teams GitHub and performed the role of the Technical Lead.",
+        "An ongoing position with my client for my industry project. In this project I am currently managing a team of four students on the development of a React application, as well as performing front-end development tasks and GitHub/version control tasks. I am the primary point of contact for the client and handle all scope negotiations with the client.",
     },
     {
       CompanyName: "Power-Tec",
       specialization: "Student software developer",
       MonthOfLeaving: "Nov 2019 -",
-      YearOfLeaving: "Sep 2022",
+      YearOfLeaving: "Sep 2020",
       Achievements:
         "Performed a range of coding tasks on two projects that ran in parallel to assist engineers and software developers with the rapid development of two BESS systems prototypes. I used a range of tools and software including: mongoDB, HTML,CSS, Javascript and Angular. Contact for .pdf resume for more details. ",
     },
@@ -62,6 +62,9 @@ let resumeData = {
     },
     {
       skillname: "C#",
+    },
+    {
+      skillname: "Python",
     },
     {
       skillname: "Oracle / MongoDB / MySQL",
