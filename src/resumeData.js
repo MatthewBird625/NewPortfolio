@@ -48,6 +48,14 @@ let resumeData = {
       Achievements:
         "Performed a range of coding tasks on two projects that ran in parallel to assist engineers and software developers with the rapid development of two BESS systems prototypes. I used a range of tools and software including: mongoDB, HTML,CSS, Javascript and Angular. Contact for .pdf resume for more details. ",
     },
+    {
+      CompanyName: "Qantas",
+      specialization: "Customer Service Consultant",
+      MonthOfLeaving: "2015 -",
+      YearOfLeaving: "2017",
+      Achievements:
+        "Providing inbound call customer service to Qantas Frequent Flyer members. Main duties were assisting members with account enquiries, updating details,submitting flight claims and proactively advising members according to Qantas policy requirements.",
+    },
   ],
   skillsDescription: "",
   skills: [
